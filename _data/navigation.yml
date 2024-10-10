@@ -7,20 +7,20 @@ docs:
 - title: Research
   url: research.html
 
-- title: Publications
-  url: publications.html
+#- title: Publications
+#  url: publications.html
 
-- title: Software
-  url: software.html
+#- title: Software
+#  url: software.html
     
 - title: Teaching
   url: teaching.html
   
-- title: Mentoring
-  url: mentoring.html
+#- title: Mentoring
+#  url: mentoring.html
 
-- title: Join us!
-  url: available_positions.html
+#- title: Join us!
+#  url: available_positions.html
 
 - title: Contact
   url: contact.html

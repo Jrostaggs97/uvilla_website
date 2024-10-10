@@ -1,16 +1,14 @@
 ---
 title: Contact
-layout: picture_left
+layout: default
 ---
 
 _**Email address**_<br>
-uvilla at oden dot utexas dot edu
+jon.staggs@utexas.edu
 
 _**Office**_<br>
-POB 4.252
+POB 3rd Floor Desk 3SEi6D 
 
-_**Phone**_<br>
-512 232-3453
 
 _**Mailing address**_<br>
 Oden Institute for Computational Engineering and Sciences
